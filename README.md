@@ -8,7 +8,7 @@ conversational bot with memory of the last 4 interactions.
 
 ## Google Colab Notebook
 
-**[Click here to open the project notebook](https://colab.research.google.com/drive/1dOvrgIBQC2A4O_dRPk4o-1kBD6ikuXqh#scrollTo=oXxRmTx791oO)**
+**[Click here to open the project notebook](https://colab.research.google.com/drive/1dOvrgIBQC2A4O_dRPk4o-1kBD6ikuXqh?usp=sharing)**
 
 ---
 
