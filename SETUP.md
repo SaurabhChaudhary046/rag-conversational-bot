@@ -23,7 +23,7 @@
 
 ### Step 1: Clone the Repository
 Open your terminal and run:
-git clone https://github.com/YOUR-USERNAME/rag-conversational-bot.git
+git clone https://github.com/SaurabhChaudhary046/rag-conversational-bot.git
 cd rag-conversational-bot
 
 ### Step 2: Create a Virtual Environment
