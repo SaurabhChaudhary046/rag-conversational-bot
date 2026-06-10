@@ -56,10 +56,10 @@ PDFs → Text Extraction → Cleaning → Chunking (1,335 chunks)
 
 | File | Description |
 |------|-------------|
-| `rag_bot.ipynb` | Main project notebook (all 5 phases) |
-| `final_report.pdf` | Final project report |
-| `requirements.txt` | All Python dependencies |
-| `SETUP.md` | Detailed setup instructions |
+| **[RAG_Project.ipynb](https://github.com/SaurabhChaudhary046/rag-conversational-bot/blob/main/notebook/RAG_Project.ipynb)** | Main project notebook (all 5 phases) |
+| **[RAG_Project_Report.pdf](https://github.com/SaurabhChaudhary046/rag-conversational-bot/blob/main/report/RAG_Project_Report.pdf)** | Final project report |
+| **[requirements.txt](https://github.com/SaurabhChaudhary046/rag-conversational-bot/blob/main/requirements.txt)** | All Python dependencies |
+| **[SETUP.md](https://github.com/SaurabhChaudhary046/rag-conversational-bot/blob/main/SETUP.md)** | Detailed setup instructions |
 
 ---
 
